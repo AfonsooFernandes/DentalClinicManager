@@ -1,4 +1,3 @@
-```markdown
 # DentalCare - Gestão de Marcações e Consultas de Dentistas
 
 ## Introdução
@@ -30,4 +29,3 @@ Este projeto é uma aplicação desenvolvida em Java com foco na gestão de marc
 **Autores:**  
 - Afonso Fernandes ([GitHub](https://github.com/AfonsooFernandes))  
 - Pedro Correia ([GitHub](https://github.com/PedroCorreiaaa))
-```
